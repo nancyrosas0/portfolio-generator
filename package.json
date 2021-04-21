@@ -15,14 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/nancyrosas0/portfolio-generator.git"
   },
-<<<<<<< HEAD
   "keywords": [
     "generator"
   ],
   "author": "Nancy",
-=======
-  "author": "",
->>>>>>> feature/questions
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nancyrosas0/portfolio-generator/issues"
