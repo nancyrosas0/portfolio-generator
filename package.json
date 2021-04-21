@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "portfolio-gen",
   "version": "1.0.0",
   "description": "portfolio generator",
-=======
-  "name": "portfolio-generator",
-  "version": "1.0.0",
-  "description": "",
->>>>>>> feature/questions
   "main": "index.js",
   "dependencies": {
     "inquirer": "^8.0.0",
