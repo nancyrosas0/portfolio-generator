@@ -143,4 +143,6 @@ const promptProject = portfolioData => {
 
 promptUser()
 .then(promptProject)
-.then(portfolioData => console.log(portfolioData));
+.then(portfolioData => {
+  console.log(portfolioData);
+});
