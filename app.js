@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+feature/updated-template
+>>>>>>> feature/updated-template
 const inquirer = require('inquirer');
 
 const fs = require('fs');
@@ -154,4 +158,24 @@ promptUser()
       console.log('Page created! Check out index.html in this directory to see it!');
     });
   });
+<<<<<<< HEAD
+>>>>>>> feature/updated-template
+=======
+
+const profileDataArgs = process.argv.slice(2);
+
+const printProfileData = profileDataArr => {
+  // This...
+  for (let i = 0; i < profileDataArr.length; i += 1) {
+    console.log(profileDataArr[i]);
+  }
+
+  console.log('================');
+
+  // Is the same as this...
+  profileDataArr.forEach(profileItem => console.log(profileItem));
+};
+
+printProfileData(profileDataArgs);
+main
 >>>>>>> feature/updated-template
