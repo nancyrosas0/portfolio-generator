@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-gen",
+  "version": "1.0.0",
+  "description": "portfolio generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "latest-version": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancyrosas0/portfolio-generator.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Nancy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancyrosas0/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/nancyrosas0/portfolio-generator#readme"
+}
